@@ -1,0 +1,6 @@
+﻿1>------ Build started: Project: CsLabQ3, Configuration: Debug Win32 ------
+1>CsLabQ3.cpp
+1>C:\Users\brand\source\repos\CsLabQ3\CsLabQ3\CsLabQ3.cpp(16,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+1>CsLabQ3.vcxproj -> C:\Users\brand\source\repos\CsLabQ3\Debug\CsLabQ3.exe
+1>Done building project "CsLabQ3.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
